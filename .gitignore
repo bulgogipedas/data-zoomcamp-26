@@ -8,3 +8,4 @@ wheels/
 *.parquet
 # Virtual environments
 .venv
+test.txt
