@@ -1,0 +1,168 @@
+# ============================================
+# Python-related files
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv
+venv/
+ENV/
+env/
+.env
+.env.local
+.env.*.local
+
+# ============================================
+# IDE and Editor files
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+.vim/
+.emacs.d/
+*.iml
+
+# ============================================
+# OS files
+# ============================================
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# ============================================
+# Database and credential files
+# ============================================
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.local
+.env.*.local
+secrets/
+credentials/
+*.pem
+*.key
+*.pfx
+config/secrets.yml
+config/database.yml
+
+# ============================================
+# Data files (CSV, Parquet, etc.)
+# ============================================
+*.csv
+*.parquet
+*.xlsx
+*.xls
+*.json
+*.jsonl
+*.gz
+*.tar
+*.tar.gz
+*.zip
+data/
+datasets/
+*.feather
+test.txt
+
+# ============================================
+# Jupyter Notebooks
+# ============================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.jupyter/
+
+# ============================================
+# Node and package managers
+# ============================================
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# ============================================
+# Temporary and log files
+# ============================================
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*.swo
+*~
+.cache/
+tmp/
+temp/
+
+# ============================================
+# IDE cache and build
+# ============================================
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# ============================================
+# Docker
+# ============================================
+.docker/
+docker-compose.override.yml
+
+# ============================================
+# macOS specific
+# ============================================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ============================================
+# Windows specific
+# ============================================
+Thumbs.db
+ehthumbs.db
+
+# ============================================
+# Project-specific
+# ============================================
+# Add your custom patterns below
+*.parquet
+test.txt
